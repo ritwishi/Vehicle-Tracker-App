@@ -27,7 +27,7 @@ A modern, interactive web application that simulates real-time vehicle movement 
 
 ## 🎥 Demo
 
-**Live Application:** Running on `http://localhost:5173`
+**Live Application:** Running on `https://ritwishi.github.io/Vehicle-Tracker-App/`
 
 **Screenshot:**
 ```
