@@ -45,7 +45,8 @@ function VehicleMap() {
         setIsLoading(true);
         setError(null);
         
-        const response = await fetch('/dummy-route.json');
+        const response = await fetch(import.meta.env.BASE_URL + 'dummy-route.json');
+
         
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
