@@ -60,7 +60,7 @@ Map displays with:
 
 Before you begin, ensure you have the following installed:
 
-- **Node.js** (v16.x or higher) - [Download](https://nodejs.org/)
+- **Node.js** (v16.x or higher)
 - **npm** (comes with Node.js) or **yarn**
 - **Git** (optional, for version control)
 - A modern web browser (Chrome, Firefox, Safari, Edge)
